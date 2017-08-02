@@ -6,21 +6,21 @@ highlighter:         pygments
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
 title:            Codinfox
 tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
+description:      'Machine Learning, Stats, and other stuff'
 url:              http://codinfox.github.io
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
+  name:           RoetGer
+  url:            http://roetger.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
-
+  introduction:   'Machine Learning, Stats, and other stuff'
+ 
 paginate:         5
 paginate_path:    '/blog/page:num'
 
@@ -28,4 +28,4 @@ paginate_path:    '/blog/page:num'
 version:          1.0.0
 
 github:
-  repo:           https://github.com/codinfox/lanyon-codinfox.github.io
+  repo:           https://github.com/roetger/roetger.github.io
