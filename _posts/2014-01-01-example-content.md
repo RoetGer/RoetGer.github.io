@@ -127,3 +127,6 @@ Test math equations:
 
 <p style="color:black">$$ J_\alpha(x) = \sum\limits_{m=0}^\infty \frac{(-1)^m}{m! \, \Gamma(m + \alpha + 1)}{\bigl({\frac{x}{2}}\bigr)}^{2 m + \alpha} $$</p>
 
+<p style="color:black">{% raw %} $$a^2 + b^2 = c^2$$ {% endraw %}</p>
+
+<p style="color:black">\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]</p>
