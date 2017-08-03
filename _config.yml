@@ -19,8 +19,7 @@ author:
   url:            http://roetger.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   '“The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” 
-			― Edsger W. Dijkstra'
+  introduction:   '"Artificial intelligence will reach human levels by around 2029. Follow that out further to, say, 2045, we will have multiplied the intelligence, the human biological machine intelligence of our civilization a billion-fold." - Ray Kurzweil'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
