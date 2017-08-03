@@ -1,13 +1,21 @@
 # Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+#markdown:            redcarpet
+#highlighter:         pygments
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 #relative_permalinks: true
-
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+      
 # Setup
 title:            RoetGer
 tagline:          'Machine Intelligence, Statistics, and other stuff.'
