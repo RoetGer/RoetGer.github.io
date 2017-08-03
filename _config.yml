@@ -9,17 +9,18 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:            Codinfox
+title:            RoetGer
 tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+description:      'Machine Intelligence, Statistics, and other stuff.'
+url:              http://roetger.github.io
 
 author:
   name:           RoetGer
   url:            http://roetger.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+  introduction:   '“The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” 
+			― Edsger W. Dijkstra'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
@@ -29,3 +30,8 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/codinfox/roetger.github.io
+
+# Puglins
+#mathjax: true # whether support mathjax
+google_analytics_token: 'UA-102234755-1' # leave blank if you don't want google analytics
+disqus_short_name: 'roetger-github-io.disqus.com/admin/' # leave blank if you don't want disqus
