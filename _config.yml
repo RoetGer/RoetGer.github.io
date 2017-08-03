@@ -33,4 +33,4 @@ github:
 # Puglins
 #mathjax: true # whether support mathjax
 google_analytics_token: 'UA-102234755-1' # leave blank if you don't want google analytics
-disqus_short_name: 'roetger-github-io.disqus.com/admin/' # leave blank if you don't want disqus
+disqus_short_name: 'roetger-github-io' # leave blank if you don't want disqus
