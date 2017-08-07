@@ -131,6 +131,7 @@ Test math equations:
 
 <p style="color:black">\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]</p>
 
+Multiline equation:
 $$
 \begin{align}
 \begin{split}\label{eq:1.1.1}
