@@ -130,3 +130,14 @@ Test math equations:
 <p style="color:black">{% raw %} $$a^2 + b^2 = c^2$$ {% endraw %}</p>
 
 <p style="color:black">\\[ \mathbf{X} = \mathbf{Z} \mathbf{P^\mathsf{T}} \\]</p>
+
+$$
+\begin{align}
+\begin{split}\label{eq:1.1.1}
+	KL ={}& 1 + 1
+\end{split}\\
+\begin{split}\label{eq:1.1.1}
+	={}& 2
+\end{split}	
+\end{align}
+$$
