@@ -8,6 +8,8 @@ tags: [Uncertainty, Concentration Inequalities]
 
 In this post, we will take a look on how to obtain a confidence interval on the empirical mean of independent, bounded random variables via Hoeffding's inequality (HI).
 
+<!-- more -->
+
 For a set of random variables (RV) $$X_1, X_2, \cdots, X_n$$ with $$X_i \in \left[ a_i, b_i \right]$$, the empirical mean is given by:
 
 $$Y = \frac{1}{n}\sum_i X_i$$
