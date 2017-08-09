@@ -15,10 +15,10 @@ steps onto stackexchange:
 
 Just create a file `allow-downgrade` in the directory `/etc/apt/preferences.d/` and enter:
 
-'''bash
+```bash
 Package: *
 Pin: release o=Ubuntu
 Pin-Priority: 1001
-'''
+```
 
 This will allow APT to downgrade packages in order to resolve dependency issues.
